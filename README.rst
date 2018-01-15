@@ -4,10 +4,9 @@ Consumiendo WebService con Python (suds y xml.etree.ElementTree)
 
 Ejemplo de como consumir WebService utilizando las librerias suds y xml.etree.ElementTree para navegar por el resultado.
 
-si no tienes las librerias puedes instalarlas utilizando::
+si no tienes la libreria puedes instalarlas utilizando::
 
         pip install suds
-        pip install xml.etree.ElementTree
 
 El webservice que se consumira en el ejemplo es un webserice gratuito endpoint::
         
